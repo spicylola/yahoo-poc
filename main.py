@@ -20,3 +20,5 @@ def get_yahoo_auth_url():
     return "<p>Hello, World!</p>"
     # url = "https://api.login.yahoo.com/oauth2/request_auth"
     # params =
+if __name__ == "__main__":
+    app.run()
